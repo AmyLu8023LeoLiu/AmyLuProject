@@ -17,7 +17,6 @@ Color_black = BlackIndex(screenNumber); % 得到黑色屏幕的颜色数值
     Screen('TextSize', window, 100);
     Screen('TextFont', window, 'simhei'); 
     
-    
     %% 视频播放
     VideoFileName='D:\workspace\AmyLuProject\AmyLu_Matlab_Project\MovieDemos\DualDiscs.mov'
         [Car_MoviePtr] = Screen('OpenMovie', window,VideoFileName);
