@@ -10,3 +10,10 @@
 	addpath('E:\AmyLu_Matlab_Project')  % 你的项目路径文件夹
 	AmyLuMatlabProject % 项目名称
 	% 运行项目 完成
+	
+	
+创建快捷方式的说明：
+1. 首先创建Matlab桌面快捷方式
+2. 右键点击 Matlab快捷方式，找到属性中的快捷方式设置
+3. 目标处设置为： "D:\Program Files\MATLAB\R2015b\bin\matlab.exe" -nojvm
+4. 点击保存完成操作
